@@ -7,7 +7,7 @@
   },
   "browser_action": {
       "default_icon": "image/icon_128.png",
-      "default_popup": "popup.html",
+      "default_popup": "index.html",
       "default_title": "Vượt Link"
   },
   "content_scripts": [{
